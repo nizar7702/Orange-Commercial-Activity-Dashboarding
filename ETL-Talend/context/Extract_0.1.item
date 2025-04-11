@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_ULhjELo_EeykvJg02Bt2BQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_ULhjEbo_EeykvJg02Bt2BQ" comment="" name="Extract_RowSeparator" prompt="Extract_RowSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;\n&quot;"/>
+  <contextParameter xmi:id="_ULhjEro_EeykvJg02Bt2BQ" comment="" name="Extract_File" prompt="Extract_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="C:/Users/DELL/Downloads/Copie_de_EXTRACT_OPPORTUNITES_MOBILE_BB_VF_mensuel2354.csv"/>
+  <contextParameter xmi:id="_ULhjE7o_EeykvJg02Bt2BQ" comment="" name="Extract_Encoding" prompt="Extract_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="UTF-8"/>
+  <contextParameter xmi:id="_ULhjFLo_EeykvJg02Bt2BQ" comment="" name="Extract_FieldSeparator" prompt="Extract_FieldSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;;&quot;"/>
+  <contextParameter xmi:id="_ULhjFbo_EeykvJg02Bt2BQ" comment="" name="Extract_Header" prompt="Extract_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1"/>
+</talendfile:ContextType>

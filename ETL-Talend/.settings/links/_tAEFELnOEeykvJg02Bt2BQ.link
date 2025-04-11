@@ -1,0 +1,48 @@
+{
+  "itemId" : "_tAEFELnOEeykvJg02Bt2BQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_uop-oLo-EeykvJg02Bt2BQ",
+    "parameterList" : [ {
+      "id" : "_uo1k0bo-EeykvJg02Bt2BQ",
+      "name" : "test_RowSeparator"
+    }, {
+      "id" : "_uo1k0ro-EeykvJg02Bt2BQ",
+      "name" : "test_File"
+    }, {
+      "id" : "_uo1k07o-EeykvJg02Bt2BQ",
+      "name" : "test_Encoding"
+    }, {
+      "id" : "_uo1k1Lo-EeykvJg02Bt2BQ",
+      "name" : "test_FieldSeparator"
+    }, {
+      "id" : "_uo1k1bo-EeykvJg02Bt2BQ",
+      "name" : "test_Header"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_A_jWELpCEeykvJg02Bt2BQ",
+    "parameterList" : [ {
+      "id" : "_A_tuIrpCEeykvJg02Bt2BQ",
+      "name" : "Extract4_File"
+    }, {
+      "id" : "_A_tuI7pCEeykvJg02Bt2BQ",
+      "name" : "Extract4_Encoding"
+    }, {
+      "id" : "_A_tuJ7pCEeykvJg02Bt2BQ",
+      "name" : "Extract4_Header"
+    }, {
+      "id" : "_A_tuJbpCEeykvJg02Bt2BQ",
+      "name" : "Extract4_DecimalSeparator"
+    }, {
+      "id" : "_A_tuJrpCEeykvJg02Bt2BQ",
+      "name" : "Extract4_LastColumn"
+    }, {
+      "id" : "_A_tuJLpCEeykvJg02Bt2BQ",
+      "name" : "Extract4_ThousandSeparator"
+    }, {
+      "id" : "_A_tuIbpCEeykvJg02Bt2BQ",
+      "name" : "Extract4_FirstColumn"
+    } ]
+  } ]
+}

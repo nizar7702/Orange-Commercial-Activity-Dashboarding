@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_kP3XgLqOEeyaacGaemn8jQ" name="Orange_DW" id="_kP2wcLqOEeyaacGaemn8jQ" dataPackage="_kP3XgbqOEeyaacGaemn8jQ" Server="Localhost 127.0.0.1" FilePath="C:/Users/DELL/Downloads/EXTRACT OPPORTUNITES MOBILE BB VF mensuel (2).xlsx" Encoding="UTF-8" UseHeader="true" HeaderValue="1" FirstLineCaption="true" SheetName="Source" firstColumn="1" thousandSeparator="','" decimalSeparator="'.'" sheetList="Source:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+    <sheetColumns>E</sheetColumns>
+    <sheetColumns>F</sheetColumns>
+    <sheetColumns>G</sheetColumns>
+    <sheetColumns>H</sheetColumns>
+    <sheetColumns>I</sheetColumns>
+    <sheetColumns>J</sheetColumns>
+    <sheetColumns>K</sheetColumns>
+    <sheetColumns>L</sheetColumns>
+    <sheetColumns>M</sheetColumns>
+    <sheetColumns>N</sheetColumns>
+    <sheetColumns>O</sheetColumns>
+    <sheetColumns>P</sheetColumns>
+    <sheetColumns>Q</sheetColumns>
+    <sheetColumns>R</sheetColumns>
+    <sheetColumns>S</sheetColumns>
+    <sheetColumns>T</sheetColumns>
+    <sheetColumns>U</sheetColumns>
+    <sheetColumns>V</sheetColumns>
+    <sheetColumns>W</sheetColumns>
+    <sheetColumns>X</sheetColumns>
+    <sheetColumns>Y</sheetColumns>
+    <sheetColumns>Z</sheetColumns>
+    <sheetColumns>AA</sheetColumns>
+    <sheetColumns>AB</sheetColumns>
+    <sheetColumns>AC</sheetColumns>
+    <sheetColumns>AD</sheetColumns>
+    <sheetColumns>AE</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_kP3XgbqOEeyaacGaemn8jQ" name="default" dataManager="_kP3XgLqOEeyaacGaemn8jQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_kP3XgrqOEeyaacGaemn8jQ" id="_I5y-QLqOEeyaacGaemn8jQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7CIFkLsWEey_5rYQxYlnxw" label="Reference_OSM_mere__Opportunite" length="14" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7CIFkbsWEey_5rYQxYlnxw" label="Reference_OSM__Opportunite" length="14" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7CIFkrsWEey_5rYQxYlnxw" label="Client_Prospect__Opportunite" length="39" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7CIFk7sWEey_5rYQxYlnxw" label="Offre" length="34" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7CIFlLsWEey_5rYQxYlnxw" label="Nature_Offre" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7CIFlbsWEey_5rYQxYlnxw" label="Produit_existant" length="34" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7CIFlrsWEey_5rYQxYlnxw" label="Nature_produit__Produit_existant" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7CIFl7sWEey_5rYQxYlnxw" label="Quantite" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7CIFmLsWEey_5rYQxYlnxw" label="Prix_unitaire" length="6" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7CIFmbsWEey_5rYQxYlnxw" label="Total_final" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7CIFmrsWEey_5rYQxYlnxw" label="Remise______Opportunite" length="4" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7CIFm7sWEey_5rYQxYlnxw" label="Total_remise_HT" length="16" precision="14" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7CIFnLsWEey_5rYQxYlnxw" label="Extension__Opportunite" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7CIFnbsWEey_5rYQxYlnxw" label="Budget_a_valider__Opportunite" length="6" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7CIFnrsWEey_5rYQxYlnxw" label="Budget_a_valider_Extension__Opportunite" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7CIFn7sWEey_5rYQxYlnxw" label="Duree_d_engagement__Opportunite" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7CIFoLsWEey_5rYQxYlnxw" label="Type_d_engagement" length="12" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7CIFobsWEey_5rYQxYlnxw" label="Demandeur__Opportunite" length="18" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7CIForsWEey_5rYQxYlnxw" label="Equipe" length="12" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7CIFo7sWEey_5rYQxYlnxw" label="Cree_le__Opportunite" length="28" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7CIFpLsWEey_5rYQxYlnxw" label="Mois_de_creation" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7CIFpbsWEey_5rYQxYlnxw" label="Annee_de_creation" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7CIFprsWEey_5rYQxYlnxw" label="Mois_et_annee_de_creation" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7CIFp7sWEey_5rYQxYlnxw" label="Raison_de_statut_OSM__Opportunite" length="14" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7CIFqLsWEey_5rYQxYlnxw" label="Statut_OSM__Opportunite" length="8" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7CIFqbsWEey_5rYQxYlnxw" label="Statut_activation__Commande" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7CIFqrsWEey_5rYQxYlnxw" label="Date_d_activation__Commande" length="28" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7CIFq7sWEey_5rYQxYlnxw" label="Mois_d_activation" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7CIFrLsWEey_5rYQxYlnxw" label="Staut_Final" length="7" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7CIFrbsWEey_5rYQxYlnxw" label="Gouvernorat" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7CIFrrsWEey_5rYQxYlnxw" label="Phase_de_l_opportunite__Opportunite" length="11" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

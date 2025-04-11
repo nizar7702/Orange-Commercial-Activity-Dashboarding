@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_BSwLwbs7EeyDLMIi6t_nxg" name="resiliation" id="_BSwLwLs7EeyDLMIi6t_nxg" dataPackage="_BSwLwrs7EeyDLMIi6t_nxg __d0roMA2EeyL8ppgfxc_FA" Server="Localhost 127.0.0.1" FilePath="C:/Users/DELL/Downloads/parc facturé Mars 2022 (1).xlsx" Encoding="UTF-8" UseHeader="true" HeaderValue="1" FirstLineCaption="true" SheetName="Résiliation" firstColumn="1" thousandSeparator="','" decimalSeparator="'.'" sheetList="Résiliation:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+    <sheetColumns>E</sheetColumns>
+    <sheetColumns>F</sheetColumns>
+    <sheetColumns>G</sheetColumns>
+    <sheetColumns>H</sheetColumns>
+    <sheetColumns>I</sheetColumns>
+    <sheetColumns>J</sheetColumns>
+    <sheetColumns>K</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_BSwLwrs7EeyDLMIi6t_nxg" name="default" dataManager="_BSwLwbs7EeyDLMIi6t_nxg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_BSwLw7s7EeyDLMIi6t_nxg" id="_vyDVILs6EeyDLMIi6t_nxg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_e-aT8M1xEeynG531ciTUaQ" label="Custcode" length="10" precision="9" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_e-aT8c1xEeynG531ciTUaQ" label="Raison_Sociale" length="39" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_e-aT8s1xEeynG531ciTUaQ" label="Groupe_Client" length="12" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_e-aT881xEeynG531ciTUaQ" label="Account_Manager" length="20" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_e-aT9M1xEeynG531ciTUaQ" label="Equipe" length="12" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_e-aT9c1xEeynG531ciTUaQ" label="Somme_de_Resiliation" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_e-aT9s1xEeynG531ciTUaQ" label="Type_Resiliation" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_e-aT981xEeynG531ciTUaQ" label="Motif" length="28" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_e-aT-M1xEeynG531ciTUaQ" label="DFE" length="29" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_e-aT-c1xEeynG531ciTUaQ" label="Engage_Oui_Non" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_e-aT-s1xEeynG531ciTUaQ" label="Date_Depot" length="28" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="__d0roMA2EeyL8ppgfxc_FA" name="default" dataManager="_BSwLwbs7EeyDLMIi6t_nxg"/>
+</xmi:XMI>

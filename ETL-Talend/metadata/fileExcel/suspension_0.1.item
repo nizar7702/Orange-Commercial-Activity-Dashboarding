@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:FileExcelConnection xmi:id="_rS3FoLs9EeyDLMIi6t_nxg" name="suspension" id="_rS2ekLs9EeyDLMIi6t_nxg" dataPackage="_rS3Fobs9EeyDLMIi6t_nxg" Server="Localhost 127.0.0.1" FilePath="C:/Users/DELL/Downloads/parc facturé Mars 2022 (1).xlsx" Encoding="UTF-8" UseHeader="true" HeaderValue="1" FirstLineCaption="true" SheetName="Suspension" firstColumn="1" thousandSeparator="','" decimalSeparator="'.'" sheetList="Suspension:w&#xA;">
+    <sheetColumns>A</sheetColumns>
+    <sheetColumns>B</sheetColumns>
+    <sheetColumns>C</sheetColumns>
+    <sheetColumns>D</sheetColumns>
+    <sheetColumns>E</sheetColumns>
+    <sheetColumns>F</sheetColumns>
+    <sheetColumns>G</sheetColumns>
+    <sheetColumns>H</sheetColumns>
+    <sheetColumns>I</sheetColumns>
+    <sheetColumns>J</sheetColumns>
+    <sheetColumns>K</sheetColumns>
+  </TalendMetadata:FileExcelConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_rS3Fobs9EeyDLMIi6t_nxg" name="default" dataManager="_rS3FoLs9EeyDLMIi6t_nxg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_rS3Fors9EeyDLMIi6t_nxg" id="_NuheALs9EeyDLMIi6t_nxg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBs88M1xEeynG531ciTUaQ" label="Custcode" length="10" precision="9" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBs88c1xEeynG531ciTUaQ" label="Raison_Sociale" length="38" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBs88s1xEeynG531ciTUaQ" label="Groupe_Client" length="12" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBs8881xEeynG531ciTUaQ" label="Account_Manager" length="20" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBs89M1xEeynG531ciTUaQ" label="Equipe" length="12" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBs89c1xEeynG531ciTUaQ" label="Somme_de_Suspension" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBs89s1xEeynG531ciTUaQ" label="Type_de_suspension" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBs8981xEeynG531ciTUaQ" label="Motif" length="41" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBs8-M1xEeynG531ciTUaQ" label="DFE" length="29" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBs8-c1xEeynG531ciTUaQ" label="Engage_Oui_Non" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_gBs8-s1xEeynG531ciTUaQ" label="Date_Depot" length="28" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

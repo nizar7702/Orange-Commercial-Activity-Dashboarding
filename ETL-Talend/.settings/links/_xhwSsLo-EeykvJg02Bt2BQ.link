@@ -1,0 +1,23 @@
+{
+  "itemId" : "_xhwSsLo-EeykvJg02Bt2BQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_uop-oLo-EeykvJg02Bt2BQ",
+    "parameterList" : [ {
+      "id" : "_uo1k0bo-EeykvJg02Bt2BQ",
+      "name" : "test_RowSeparator"
+    }, {
+      "id" : "_uo1k0ro-EeykvJg02Bt2BQ",
+      "name" : "test_File"
+    }, {
+      "id" : "_uo1k07o-EeykvJg02Bt2BQ",
+      "name" : "test_Encoding"
+    }, {
+      "id" : "_uo1k1Lo-EeykvJg02Bt2BQ",
+      "name" : "test_FieldSeparator"
+    }, {
+      "id" : "_uo1k1bo-EeykvJg02Bt2BQ",
+      "name" : "test_Header"
+    } ]
+  } ]
+}

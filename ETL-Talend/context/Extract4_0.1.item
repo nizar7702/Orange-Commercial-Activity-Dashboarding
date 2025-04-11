@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_A_tuILpCEeykvJg02Bt2BQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_A_tuIbpCEeykvJg02Bt2BQ" comment="" name="Extract4_FirstColumn" prompt="Extract4_FirstColumn?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1"/>
+  <contextParameter xmi:id="_A_tuIrpCEeykvJg02Bt2BQ" comment="" name="Extract4_File" prompt="Extract4_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="C:/Users/DELL/Downloads/EXTRACT OPPORTUNITES MOBILE BB VF mensuel.xlsx"/>
+  <contextParameter xmi:id="_A_tuI7pCEeykvJg02Bt2BQ" comment="" name="Extract4_Encoding" prompt="Extract4_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="UTF-8"/>
+  <contextParameter xmi:id="_A_tuJLpCEeykvJg02Bt2BQ" comment="" name="Extract4_ThousandSeparator" prompt="Extract4_ThousandSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="','"/>
+  <contextParameter xmi:id="_A_tuJbpCEeykvJg02Bt2BQ" comment="" name="Extract4_DecimalSeparator" prompt="Extract4_DecimalSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="'.'"/>
+  <contextParameter xmi:id="_A_tuJrpCEeykvJg02Bt2BQ" comment="" name="Extract4_LastColumn" prompt="Extract4_LastColumn?" promptNeeded="false" repositoryContextId="" type="id_Integer" value=""/>
+  <contextParameter xmi:id="_A_tuJ7pCEeykvJg02Bt2BQ" comment="" name="Extract4_Header" prompt="Extract4_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1"/>
+</talendfile:ContextType>

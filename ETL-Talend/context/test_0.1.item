@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_uo1k0Lo-EeykvJg02Bt2BQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_uo1k0bo-EeykvJg02Bt2BQ" comment="" name="test_RowSeparator" prompt="test_RowSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;\n&quot;"/>
+  <contextParameter xmi:id="_uo1k0ro-EeykvJg02Bt2BQ" comment="" name="test_File" prompt="test_File?" promptNeeded="false" repositoryContextId="" type="id_File" value="C:/Users/DELL/Downloads/Copie_de_EXTRACT_OPPORTUNITES_MOBILE_BB_VF_mensuel2354.csv"/>
+  <contextParameter xmi:id="_uo1k07o-EeykvJg02Bt2BQ" comment="" name="test_Encoding" prompt="test_Encoding?" promptNeeded="false" repositoryContextId="" type="id_String" value="UTF-8"/>
+  <contextParameter xmi:id="_uo1k1Lo-EeykvJg02Bt2BQ" comment="" name="test_FieldSeparator" prompt="test_FieldSeparator?" promptNeeded="false" repositoryContextId="" type="id_String" value="&quot;;&quot;"/>
+  <contextParameter xmi:id="_uo1k1bo-EeykvJg02Bt2BQ" comment="" name="test_Header" prompt="test_Header?" promptNeeded="false" repositoryContextId="" type="id_Integer" value="1"/>
+</talendfile:ContextType>
